@@ -2,7 +2,7 @@
 
 
 
-
+![Image of a cat](https://octodex.github.com/images/godotocat.png)
 
 
 
